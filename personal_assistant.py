@@ -23,7 +23,7 @@ choice = int(input('Тебе уже не терпиться узнать что 
 if choice == 1:
   print('Настроение поднято')
 elif choice == 2:
-  cat = int(input('Сколько коту лет?'))
+  catss = int(input('Сколько коту лет?'))
   if 5>= cat >= 0:
     print('Кота надо кормить всегда')
   elif 0 <= cat <= 15:
