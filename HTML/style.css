@@ -3,6 +3,6 @@
 body{
 background-color: #F0FF79;
 font-family: 'Lobster', cursive;
+text-align:center;
+color:#000000;  
 }
-h1,h2,p {text-align:center;}
-h1,h2,p {color:#000000;}
