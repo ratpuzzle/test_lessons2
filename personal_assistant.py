@@ -8,7 +8,22 @@ name_assistant = 'Денис'
 name_assistant = 'Денис'
 print('Здраствуйте я ваш ассистент, меня зовут', name_assistant)
 name_user = input('Как тебя звать: ')
-
+name_assistant = 'Денис'
+name_assistant = 'Денис'
+name_assistant = 'Денис'
+name_assistant = 'Денис'
+name_assistant = 'Денис'
+name_assistant = 'Денис'
+name_assistant = 'Денис'
+name_assistant = 'Денис'
+name_assistant = 'Денис'
+name_assistant = 'Денис'
+name_assistant = 'Денис'
+name_assistant = 'Денис'
+name_assistant = 'Денис'
+name_assistant = 'Денис'
+name_assistant = 'Денис'
+name_assistant = 'Денис'
 print('Приятно познакомиться,', name_user, '\n')
 age_user = int(input('Сколько тебе лет: '))
 
