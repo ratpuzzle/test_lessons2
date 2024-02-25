@@ -1,4 +1,11 @@
 name_assistant = 'Денис'
+name_assistant = 'Денис'
+name_assistant = 'Денис'
+name_assistant = 'Денис'
+name_assistant = 'Денис'
+name_assistant = 'Денис'
+name_assistant = 'Денис'
+name_assistant = 'Денис'
 print('Здраствуйте я ваш ассистент, меня зовут', name_assistant)
 name_user = input('Как тебя звать: ')
 
